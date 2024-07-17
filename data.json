@@ -1,0 +1,242 @@
+[
+  {
+    "logo": "https://banner2.cleanpng.com/20180721/tbz/kisspng-amazon-com-brand-logo-e-commerce-customer-international-volunteering-5b534dc6015e31.6273062615321860540056.jpg",
+    "jobTitle": "Product Designer",
+    "companyName": "Amazon",
+    "mode": "hybrid",
+    "salaryRange": "90 - 120",
+    "location": "London",
+    "jobDescription": "Amazon is seeking a Product Designer to create intuitive and engaging user interfaces. 4+ years of design experience required.",
+    "dutiesResponsibilities": [
+      "Design user interfaces for web and mobile applications",
+      "Collaborate with product managers and engineers",
+      "Conduct user research and usability testing",
+      "Create wireframes and prototypes"
+    ],
+    "skillsQualifications": [
+      "Proficiency in design tools such as Sketch, Figma, or Adobe XD",
+      "Experience with user research and usability testing",
+      "Strong visual and interaction design skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "design"
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqC1WrM3fys2GyzmhrjKy5_A3ewDU5LeuvJDdSRjTPv7h0pi5qHUSjCVulQ10u1H2abOg&usqp=CAU",
+    "jobTitle": "Product Manager",
+    "companyName": "Meta",
+    "mode": "on-site",
+    "salaryRange": "100 - 130",
+    "location": "Alberta, Canada",
+    "jobDescription": "Meta is looking for a Product Manager to lead the development of new products and features. 5+ years of product management experience required.",
+    "dutiesResponsibilities": [
+      "Define product vision and strategy",
+      "Collaborate with cross-functional teams",
+      "Analyze market trends and user feedback",
+      "Manage product lifecycle from concept to launch"
+    ],
+    "skillsQualifications": [
+      "Experience with product management tools like JIRA and Trello",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and leadership skills",
+      "Ability to work in a fast-paced environment"
+    ],
+    "experience": "5+",
+    "jobType": "fulltime",
+    "industry": "software"
+  },
+  {
+    "logo": "https://w7.pngwing.com/pngs/459/171/png-transparent-amazon-com-aliexpress-app-store-shopping-app-android-text-logo-sign-thumbnail.png",
+    "jobTitle": "DevOps Engineer",
+    "companyName": "AliExpress",
+    "mode": "remote",
+    "salaryRange": "85 - 110",
+    "location": "Shanghai, China",
+    "jobDescription": "AliExpress is seeking a DevOps Engineer to maintain and improve our deployment processes. 3+ years of DevOps experience required.",
+    "dutiesResponsibilities": [
+      "Manage and automate deployment pipelines",
+      "Monitor and improve system performance",
+      "Collaborate with development and operations teams",
+      "Ensure security and compliance"
+    ],
+    "skillsQualifications": [
+      "Proficiency with CI/CD tools like Jenkins and GitLab",
+      "Experience with cloud platforms like AWS and Azure",
+      "Strong scripting skills in Bash, Python, or similar",
+      "Excellent problem-solving and communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "contract",
+    "industry": "software"
+  },
+  {
+    "logo": "https://res.cloudinary.com/dlb8nbz13/image/upload/v1721122266/fb_rvtmel.png",
+    "jobTitle": "Full-Stack Developer",
+    "companyName": "Facebook",
+    "mode": "hybrid",
+    "salaryRange": "90 - 120",
+    "location": "Seattle",
+    "jobDescription": "Facebook is looking for a Full-Stack Developer to build scalable web applications. 4+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain front-end and back-end components",
+      "Collaborate with designers and product managers",
+      "Optimize applications for speed and scalability",
+      "Participate in code reviews and technical discussions"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, HTML, CSS",
+      "Experience with React, Node.js, and GraphQL",
+      "Strong problem-solving skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "software"
+  },
+  {
+    "logo": "https://icon2.cleanpng.com/20240119/rp/transparent-x-logo-cross-design-black-and-white-photograph-sim-black-and-white-cross-with-letters-x-and-1710898892931.webp",
+    "jobTitle": "Backend Developer",
+    "companyName": "X (formerly Twitter)",
+    "mode": "remote",
+    "salaryRange": "80 - 110",
+    "location": "San Francisco, CA",
+    "jobDescription": "X is looking for a Backend Developer to create robust and scalable server-side applications. 3+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain server-side logic",
+      "Integrate front-end elements with server-side logic",
+      "Write reusable, testable, and efficient code",
+      "Collaborate with front-end developers and product managers"
+    ],
+    "skillsQualifications": [
+      "Proficiency in JavaScript, Node.js",
+      "Experience with Express.js and PostgreSQL",
+      "Strong problem-solving skills",
+      "Excellent communication skills"
+    ],
+    "experience": "3+",
+    "jobType": "part time",
+    "industry": "software"
+  },
+  {
+    "logo": "https://res.cloudinary.com/dlb8nbz13/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1721122266/google_hmwyff.png",
+    "jobTitle": "Site Reliability Engineer (SRE)",
+    "companyName": "Google",
+    "mode": "on-site",
+    "salaryRange": "100 - 130",
+    "location": "Mountain View, CA",
+    "jobDescription": "Google is seeking a Site Reliability Engineer to improve system reliability and performance. 4+ years of SRE experience required.",
+    "dutiesResponsibilities": [
+      "Monitor and improve system reliability and performance",
+      "Automate repetitive tasks",
+      "Collaborate with development teams to improve service availability",
+      "Ensure security and compliance"
+    ],
+    "skillsQualifications": [
+      "Experience with monitoring and logging tools",
+      "Proficiency in scripting languages like Python or Go",
+      "Strong problem-solving skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://res.cloudinary.com/dlb8nbz13/image/upload/v1721122266/microsoft_zhz2tq.png",
+    "jobTitle": "Product Manager",
+    "companyName": "Microsoft",
+    "mode": "on-site",
+    "salaryRange": "95 - 125",
+    "location": "London",
+    "jobDescription": "Microsoft is looking for a Product Manager to drive product development and strategy. 5+ years of product management experience required.",
+    "dutiesResponsibilities": [
+      "Define product vision and strategy",
+      "Collaborate with cross-functional teams",
+      "Analyze market trends and user feedback",
+      "Manage product lifecycle from concept to launch"
+    ],
+    "skillsQualifications": [
+      "Experience with product management tools like JIRA and Confluence",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and leadership skills",
+      "Ability to work in a fast-paced environment"
+    ],
+    "experience": "5+",
+    "jobType": "part time",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://res.cloudinary.com/dlb8nbz13/image/upload/v1721122266/apple_hypwzg.png",
+    "jobTitle": "iOS Developer",
+    "companyName": "Apple",
+    "mode": "on-site",
+    "salaryRange": "85 - 115",
+    "location": "Athens",
+    "jobDescription": "Apple is seeking an iOS Developer to create and maintain mobile applications. 3+ years of iOS development experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain iOS applications",
+      "Collaborate with designers and product managers",
+      "Optimize applications for performance and user experience",
+      "Participate in code reviews and technical discussions"
+    ],
+    "skillsQualifications": [
+      "Proficiency in Swift and Objective-C",
+      "Experience with iOS frameworks and tools",
+      "Strong problem-solving skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "3+",
+    "jobType": "contract",
+    "industry": "software"
+  },
+  {
+    "logo": "https://res.cloudinary.com/dlb8nbz13/image/upload/v1721122266/linkedin_xftolr.png",
+    "jobTitle": "Cloud Solutions Architect",
+    "companyName": "LinkedIn",
+    "mode": "hybrid",
+    "salaryRange": "110 - 140",
+    "location": "Armonk, NY",
+    "jobDescription": "LinkedIn is looking for a Cloud Solutions Architect to design and implement cloud-based solutions. 6+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Design and implement cloud-based solutions",
+      "Collaborate with development and operations teams",
+      "Ensure security and compliance",
+      "Provide technical guidance and support"
+    ],
+    "skillsQualifications": [
+      "Proficiency with cloud platforms like AWS, Azure, and Google Cloud",
+      "Experience with infrastructure as code (IaC) tools like Terraform",
+      "Strong problem-solving skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "6+",
+    "jobType": "fulltime",
+    "industry": "Information Technology"
+  },
+  {
+    "logo": "https://i.pinimg.com/originals/1b/54/ef/1b54efef3720f6ac39647fc420d4a6f9.png",
+    "jobTitle": "Data Engineer",
+    "companyName": "Netflix",
+    "mode": "on-site",
+    "salaryRange": "90 - 120",
+    "location": "Los Angeles",
+    "jobDescription": "Netflix is seeking a Data Engineer to build and maintain data pipelines. 4+ years of experience required.",
+    "dutiesResponsibilities": [
+      "Develop and maintain data pipelines",
+      "Collaborate with data scientists and analysts",
+      "Optimize data storage and retrieval",
+      "Ensure data quality and integrity"
+    ],
+    "skillsQualifications": [
+      "Proficiency in SQL and Python",
+      "Experience with big data technologies like Hadoop and Spark",
+      "Strong problem-solving skills",
+      "Excellent communication and teamwork skills"
+    ],
+    "experience": "4+",
+    "jobType": "fulltime",
+    "industry": "software"
+  }
+]
